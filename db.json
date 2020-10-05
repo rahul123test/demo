@@ -10,5 +10,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "employees":[
+    {
+     id:1,
+      name:'rahul',
+      phoneno: 15454545,
+      gender: 'Male',
+      photoPath:'assets/images/admin.png'
+      
+    }
+  ]
 }
